@@ -1,7 +1,7 @@
-package com.rabobank.demo.controller;
+package com.rabobank.server.controller;
 
-import com.rabobank.demo.model.Transactions;
-import com.rabobank.demo.service.TransactionsService;
+import com.rabobank.server.model.Transactions;
+import com.rabobank.server.service.TransactionsService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

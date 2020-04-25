@@ -1,4 +1,4 @@
-package com.rabobank.demo.model;
+package com.rabobank.server.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

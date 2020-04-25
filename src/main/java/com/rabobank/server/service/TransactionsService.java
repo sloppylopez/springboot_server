@@ -1,6 +1,6 @@
-package com.rabobank.demo.service;
+package com.rabobank.server.service;
 
-import com.rabobank.demo.model.Transactions;
+import com.rabobank.server.model.Transactions;
 
 import java.util.Optional;
 

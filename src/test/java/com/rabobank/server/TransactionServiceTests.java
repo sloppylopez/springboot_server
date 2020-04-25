@@ -1,7 +1,7 @@
-package com.rabobank.demo;
+package com.rabobank.server;
 
-import com.rabobank.demo.model.Transactions;
-import com.rabobank.demo.service.TransactionsService;
+import com.rabobank.server.model.Transactions;
+import com.rabobank.server.service.TransactionsService;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

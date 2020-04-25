@@ -1,4 +1,4 @@
-package com.rabobank.demo;
+package com.rabobank.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
